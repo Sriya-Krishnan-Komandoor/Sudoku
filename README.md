@@ -1,4 +1,4 @@
-"""Sudoku App"""
+# Sudoku App
 '''To generate empty sudoku puzzles and let the user fill in until the grid is complete'''
 
 '''It's a GUI-based application using Pygame'''
